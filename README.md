@@ -17,5 +17,5 @@ link da playlist: https://www.youtube.com/playlist?list=PLWgD0gfm500EMEDPyb3Orb2
 
 - Possuir MySQL instalado na máquina
 
-![](https://github.com/leandrobeandrade/store-app/blob/master/api/db.png)
-![](https://github.com/leandrobeandrade/store-app/blob/master/api/res.png)
+![](https://github.com/leandrobeandrade/store-app/blob/master/db.png)
+![](https://github.com/leandrobeandrade/store-app/blob/master/res.png)
