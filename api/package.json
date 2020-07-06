@@ -1,0 +1,27 @@
+{
+  "name": "store-app",
+  "version": "1.0.0",
+  "description": "Aplicaçao simulando uma loja virtual",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrobeandrade/store-app.git"
+  },
+  "author": "Leandro B. Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandrobeandrade/store-app/issues"
+  },
+  "homepage": "https://github.com/leandrobeandrade/store-app#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1"
+  }
+}
